@@ -1,4 +1,4 @@
-export const arr = [
+export const idiomArr = [
   "阿鼻地狱",
   "阿党比周",
   "阿党相为",
